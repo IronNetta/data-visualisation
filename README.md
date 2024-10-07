@@ -13,7 +13,8 @@ Vous pouvez personnaliser les graphiques en modifiant les données dans le fichi
 Ce projet a été créé par IronNetta dans le cadre d'un projet personnel ou d'un cours.
 
 ## Licence
-Ce projet est sous licence MIT. Vous pouvez utiliser ce code pour votre usage personnel ou pour des projets non commerciaux. Si vous souhaitez utiliser ce code pour des projets commerciaux, veuillez me contacter pour obtenir une autorisation préalable.
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Remerciements
 Ce projet utilise la bibliothèque Chart.js pour la création de graphiques interactifs. Merci à l'équipe de Chart.js pour leur excellent travail !
