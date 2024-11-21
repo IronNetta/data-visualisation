@@ -18,3 +18,5 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## Remerciements
 Ce projet utilise la bibliothèque Chart.js pour la création de graphiques interactifs. Merci à l'équipe de Chart.js pour leur excellent travail !
+
+#Live Demo : https://ironnetta.github.io/data-visualisation/
